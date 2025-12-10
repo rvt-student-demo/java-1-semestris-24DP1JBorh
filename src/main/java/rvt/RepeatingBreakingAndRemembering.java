@@ -7,7 +7,7 @@ public class RepeatingBreakingAndRemembering {
         
         int sum = 0;
 
-        System.out.println("Give numbers: ");
+        System.out.println("Give numbers:");
 
         while (true) {
             int num = Integer.valueOf(scanner.nextLine());
